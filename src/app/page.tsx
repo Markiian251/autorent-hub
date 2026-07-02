@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <main
       className="min-h-screen bg-cover bg-center text-white"
-      style={{ backgroundImage: "url('/images/background.jpg')" }}
+      style={{ backgroundImage: "url('/images/2211.jpg')" }}
     >
       <div className="min-h-screen bg-black/60 flex flex-col">
 
