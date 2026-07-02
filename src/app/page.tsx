@@ -8,7 +8,7 @@ export default function Home() {
 
         {/* NAV */}
         <header className="flex justify-between px-10 py-6">
-          <h1 className="text-xl font-bold"> GOODINVEST <AnimationEffect>AUTO</AnimationEffect></h1>
+          <h1 className="text-xl font-bold"> GOODINVEST <span className="text-orange-500">AUTO</span></h1>
 
           <div className="flex gap-6 text-sm">
             <a href="/" className="hover:text-blue-400">Home</a>
