@@ -3,11 +3,11 @@ export default function Home() {
     <main className="min-h-screen bg-gray-100 flex items-center justify-center">
       <div className="bg-white rounded-2xl shadow-xl p-8 w-[420px]">
         <h1 className="text-3xl font-bold mb-2">
-          🚗 AutoRent Hub
+          🚗 Піся Оксани
         </h1>
 
-        <p className="text-gray-500 mb-8">
-          Кабінет клієнта
+        <p className="text-black-500 mb-8">
+          Кабінет Оксанки
         </p>
 
         <div className="space-y-4">
@@ -28,7 +28,7 @@ export default function Home() {
           </div>
 
           <button className="w-full bg-blue-600 text-white rounded-xl py-3 hover:bg-blue-700">
-            Оплатити
+            Тицьни На Мене Сучка
           </button>
         </div>
       </div>
