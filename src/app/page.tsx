@@ -11,24 +11,24 @@ export default function Home() {
         </p>
 
         <div className="space-y-4">
-          <div className="rounded-xl bg-blue-50 p-4">
-            <p className="text-sm text-gray-500">Автомобіль</p>
+          <div className="rounded-xl bg-pink-400 p-4">
+            <p className="text-sm text-black">Жопка</p>
             <h2 className="text-xl font-semibold">
-              Соска
+              Треба платити
             </h2>
           </div>
 
           <div className="rounded-xl bg-green-50 p-4">
-            <p className="text-sm text-gray-500">
+            <p className="text-sm text-black">
               Наступний платіж
             </p>
             <h2 className="text-xl font-semibold">
-              12 500 грн
+              12 500 $$$
             </h2>
           </div>
 
           <button className="w-full bg-blue-600 text-white rounded-xl py-3 hover:bg-blue-700">
-            Тицьни На Мене Сучка
+            ПЛАТИ НАХУЙ
           </button>
         </div>
       </div>
