@@ -1,4 +1,10 @@
+
 export default function Home() {
+  return (
+    <main
+      className="min-h-screen bg-cover bg-center bg-no-repeat"
+      style={{ backgroundImage: "url('/images/background.jpg')" }}
+    ></main>export default function Home() {
   return (
     <main className="min-h-screen bg-black flex items-center justify-center">
       <div className="bg-black rounded-2xl shadow-xl p-8 w-[420px]">
