@@ -18,7 +18,7 @@ export default function Home() {
             </h2>
           </div>
 
-          <div className="rounded-xl bg-green-50 p-4">
+          <div className="rounded-xl bg-pink-400  p-4">
             <p className="text-sm text-black">
               Наступний платіж
             </p>
