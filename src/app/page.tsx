@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <main className="min-h-screen bg-gray-100 flex items-center justify-center">
-      <div className="bg-white rounded-2xl shadow-xl p-8 w-[420px]">
+    <main className="min-h-screen bg-black flex items-center justify-center">
+      <div className="bg-black rounded-2xl shadow-xl p-8 w-[420px]">
         <h1 className="text-3xl font-bold mb-2">
           🚗 Піся Оксани
         </h1>
@@ -14,7 +14,7 @@ export default function Home() {
           <div className="rounded-xl bg-blue-50 p-4">
             <p className="text-sm text-gray-500">Автомобіль</p>
             <h2 className="text-xl font-semibold">
-              BMW G20 320d
+              Соска
             </h2>
           </div>
 
